@@ -5,10 +5,10 @@
 <style>
 /* media */
 @media screen and (max-width: 600px) {
-  .top-nav .container{
+  .top-nav .container {
     flex-direction: column;
   }
-  .medias{
+  .medias {
     padding-bottom: 1rem;
   }
   .logo-img {
@@ -17,36 +17,43 @@
   .medias i {
     font-size: 1rem;
   }
-  nav{
+  nav {
     justify-content: center;
   }
-  nav .nav-item{
-    margin:0 !important;
+  nav .nav-item {
+    margin: 0 !important;
   }
-  ul{
+  ul {
     text-align: center;
   }
-  .desc p{
-  
-  line-height:1.6;
-}
-.desc h5{
-  font-size:1.1rem;
-}
-footer ul,.footer-logo-img,.imgs-footer{
-  margin-bottom:2rem;
-}
-footer .logo{
-  display:none;
-}
-.c-center{
-  justify-content:center !important;
-}
-footer .nav-link {
-  margin-bottom: 1rem !important;
-}
-   .assa-titre h1{
+  .desc p {
+    line-height: 1.6;
+  }
+  .desc h5 {
+    font-size: 1.1rem;
+  }
+  footer ul,
+  .footer-logo-img,
+  .imgs-footer {
+    margin-bottom: 2rem;
+  }
+  footer .logo {
+    display: none;
+  }
+  .c-center {
+    justify-content: center !important;
+  }
+  footer .nav-link {
+    margin-bottom: 1rem !important;
+  }
+  .assa-titre h1 {
     font-size: 1.9rem !important;
+  }
+  .dir p {
+    font-size: 0.7rem;
+  }
+  .dir a {
+    font-size: 0.6rem;
   }
 }
 </style>
