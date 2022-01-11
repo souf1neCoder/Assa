@@ -133,6 +133,6 @@ b{
   text-transform: lowercase;
 }
 .cnt:hover >  h4{
-  color: var(--orange);
+  color: var(--orangs);
 }
 </style>

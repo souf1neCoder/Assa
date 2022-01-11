@@ -112,7 +112,7 @@ footer .nav-link {
   flex-wrap: wrap;
   overflow: hidden;
   flex-direction: row;
-  border: 1px solid var(--orange);
+  border: 1px solid var(--orangs);
   border-radius: 5px;
 }
 .img-footer {
@@ -120,11 +120,11 @@ footer .nav-link {
   height: calc(296px / 3);
 }
 .lb {
-  border-bottom: 1px solid var(--orange);
+  border-bottom: 1px solid var(--orangs);
 }
 
 .lr {
-  border-right: 1px solid var(--orange);
+  border-right: 1px solid var(--orangs);
 }
 footer .logo-img{
     height: 3rem;

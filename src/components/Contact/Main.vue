@@ -59,7 +59,7 @@ export default {};
 }
 .input-contact:focus,
 .input-contact:focus-visible {
-  border: 1px solid var(--orange);
+  border: 1px solid var(--orangs);
   outline: none;
 }
 .btn-contact {

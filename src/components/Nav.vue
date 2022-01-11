@@ -64,7 +64,7 @@ export default {};
   width: 100vw;
 }
 .medias i {
-  color: var(--orange);
+  color: var(--orangs);
   margin: 0 0.6rem;
   transition: var(--transition);
   font-size: 1.2rem;
@@ -82,7 +82,7 @@ export default {};
   font-weight: 500;
 }
 .nav-link:hover,.router-link-exact-active,.router-link-active{
-  color:var(--orange);
+  color:var(--orangs);
 }
 .nav-item{
   margin:0 30px;
