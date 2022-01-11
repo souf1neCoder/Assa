@@ -62,7 +62,7 @@ export default {
   line-height:1.7;
 }
 .desc h5{
-  color:var(--black);
+  color:var(--darks);
   line-height: 1.6;
   font-weight:600;
   font-size:1.2rem;

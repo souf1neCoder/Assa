@@ -75,7 +75,7 @@ export default {};
 }
 /*  */
 .nav-link {
-  color: var(--black);
+  color: var(--darks);
   text-transform: uppercase;
   letter-spacing: 1px;
   transition: var(--transition);

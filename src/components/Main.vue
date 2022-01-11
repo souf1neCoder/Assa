@@ -85,7 +85,7 @@ export default {};
  background-color: var(--eee);
 }
 .dir a{
-  color:var(--black);
+  color:var(--darks);
   font-size: .8rem;
   opacity:var(--opacity);
 }

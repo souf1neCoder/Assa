@@ -6,7 +6,7 @@
     --orange:#ff8000;
     --opacity:.6;
     --transition:all .3s ease-in-out;
-    --black:#171717;
+    --darks:#171717;
 	--linear-color: linear-gradient(to right top, #ff8000, #ff9108, #ffa216, #ffb225, #ffc134);
 }
 
@@ -60,7 +60,7 @@ img{
 body {
 	line-height: 1;
     font-family: 'Roboto', sans-serif;
-	color:var(--black);
+	color:var(--darks);
 	width: 100vw;
 	overflow-x: hidden;
 	background-color: var(--fff);
