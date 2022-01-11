@@ -32,13 +32,13 @@
                       <hr>
                       <div class="tel cnt">
                         <h4><i class="fas fa-phone-alt"></i> tel</h4>
-                        <p>(+212) 634-849688</p>
+                        <p><a href="tel:+212634849688">(+212) 634-849688</a></p>
                       </div>
                       <hr>
 
                       <div class="email cnt">
                         <h4><i class="fas fa-envelope"></i> e-mail</h4>
-                        <p>Sports.socialsactions@gmail.com</p>
+                        <p><a href="mailto:sports.socialsactions@gmail.com">sports.socialsactions@gmail.com</a></p>
                       </div>
                       <hr>
 
