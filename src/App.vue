@@ -55,5 +55,8 @@
   .dir a {
     font-size: 0.6rem;
   }
+  .form-contact {
+    width:90%;
+  }
 }
 </style>
