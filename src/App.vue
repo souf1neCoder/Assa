@@ -56,7 +56,7 @@
     font-size: 0.6rem;
   }
   .form-contact {
-    width:90%;
+    width:90% !important;
   }
 }
 </style>
