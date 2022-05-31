@@ -39,11 +39,7 @@
                 >
             </li>
             
-            <li class="nav-item">
-              <router-link class="nav-link" to="/contact"
-                  >contact</router-link
-                >
-            </li>
+          
           </ul>
       </div>
     </nav>
