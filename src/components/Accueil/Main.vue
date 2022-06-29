@@ -90,6 +90,12 @@
           </div>
           <hr />
         </div>
+         <div class="col-lg-6 col-md-12 mb-5" data-aos="fade-right">
+          <div class="box_image">
+            <img src="@/assets/images/assa/essaouira.jpeg" alt="" />
+          </div>
+          <hr />
+        </div>
         <div class="col-lg-6 col-md-12 mb-5"  data-aos="fade-right">
           <div class="box_image">
             <img src="@/assets/images/assa/slide1.jpeg" alt="">
