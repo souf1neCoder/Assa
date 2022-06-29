@@ -2,6 +2,94 @@
   <main class="my-5">
     <div class="container">
       <div class="row mt-5">
+      <div class="col-lg-6 col-md-12 mb-5" data-aos="fade-right">
+          <div class="desc">
+            <h5>
+              Tournoi Basket 3x3 Féminin Homage pour l’âme de Mehdi hmidouche
+            </h5>
+            <p class="mb-3">
+              Sous l’égide de la fédération royale marocaine de basket-ball et
+              en coordination avec la ligue de Marrakech safi , l’association
+              Assa maroc organise un tournoi 100% féminin à Essaouira pour l’âme
+              de Mehdi hmidouche. 🙏 <br />
+              Mehdi , que dieu ait son âme, a été l’un des meilleurs joueurs de
+              basket-ball à Essaouira et à l’équipe nationale du Maroc 🇲🇦.
+              <br />
+              Ce tournoi va être aussi témoin d’un match Gala de basket à 3 pour
+              les anciens basketteurs de la ville, une première au Maroc 🇲🇦😍…
+              Restez branché ! Assa et son équipe vous réserve de belles
+              surprises 🔥
+            </p>
+            <div
+              id="carouselExampleIndicators"
+              class="carousel slide"
+              data-ride="carousel"
+            >
+              <div class="carousel-inner">
+                <div class="carousel-item active" data-interval="2000">
+                  <img
+                    src="@/assets/images/sl1.jpeg"
+                    class="d-block w-100"
+                    alt="..."
+                  />
+                </div>
+                <div class="carousel-item" data-interval="2000">
+                  <img
+                    src="@/assets/images/sl2.jpeg"
+                    class="d-block w-100"
+                    alt="..."
+                  />
+                </div>
+                <div class="carousel-item" data-interval="2000">
+                  <img
+                    src="@/assets/images/sl3.jpeg"
+                    class="d-block w-100"
+                    alt="..."
+                  />
+                </div>
+                <div class="carousel-item" data-interval="2000">
+                  <img
+                    src="@/assets/images/sl4.jpeg"
+                    class="d-block w-100"
+                    alt="..."
+                  />
+                </div>
+                <div class="carousel-item" data-interval="2000">
+                  <img
+                    src="@/assets/images/sl5.jpeg"
+                    class="d-block w-100"
+                    alt="..."
+                  />
+                </div>
+              </div>
+              <a
+                class="carousel-control-prev"
+                href="#carouselExampleIndicators"
+                role="button"
+                data-slide="prev"
+              >
+                <span
+                  class="carousel-control-prev-icon"
+                  aria-hidden="true"
+                ></span>
+                <span class="sr-only">Previous</span>
+              </a>
+              <a
+                class="carousel-control-next"
+                href="#carouselExampleIndicators"
+                role="button"
+                data-slide="next"
+              >
+                <span
+                  class="carousel-control-next-icon"
+                  aria-hidden="true"
+                ></span>
+                <span class="sr-only">Next</span>
+              </a>
+            </div>
+          </div>
+          <hr />
+        </div>
         <div class="col-lg-6 col-md-12 mb-5"  data-aos="fade-right">
           <div class="box_image">
             <img src="@/assets/images/assa/slide1.jpeg" alt="">
@@ -75,5 +163,9 @@ export default {
 }
 .box_image{
   overflow: hidden;
+}
+.carousel-item img {
+  height: 400px;
+  border-radius: 1rem;
 }
 </style>
