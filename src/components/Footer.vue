@@ -11,11 +11,7 @@
                 >
               </li>
               
-              <li class="nav-item">
-                <router-link class="nav-link" to="/contact"
-                  >contact</router-link
-                >
-              </li>
+             
             </ul>
           </div>
           <div class="col-lg-3 text-center mb-3  col-sm-12">

@@ -1,7 +1,7 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import Home from '../views/Home.vue'
 import Accueil from '../views/Accueil.vue'
-import Contact from '../views/Contact.vue'
+
 
 const routes = [
   {
@@ -20,16 +20,9 @@ const routes = [
     meta:{
       title:"Assa | Accueil"
     }
-  },
+  }
   
-  {
-    path: '/contact',
-    name: 'Contact',
-    component: Contact,
-    meta:{
-      title:"Assa | Contact"
-    }
-  },
+ 
 ]
 
 const router = createRouter({
